@@ -1,0 +1,32 @@
+[
+  {
+    "group_id": 0,
+    "color": "green",
+    "text": "Подразделение 1",
+    "counter": 4
+  },
+  {
+    "group_id": 1,
+    "color": "orange",
+    "text": "Подразделение 2",
+    "counter": 7
+  },
+  {
+    "group_id": 2,
+    "color": "brown",
+    "text": "Подразделение 3",
+    "counter": 3
+  },
+  {
+    "group_id": 3,
+    "color": "blueviolet",
+    "text": "Подразделение 4",
+    "counter": 3
+  },
+  {
+    "group_id": 4,
+    "color": "olive",
+    "text": "Подразделение 5",
+    "counter": 5
+  }
+]
